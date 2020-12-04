@@ -1,10 +1,12 @@
-# Distributed Market Basket Analysis
+# Distributed Market Basket Analysis using PySpark
 
 This project was developed as part of my Master's Course Study in Algorithms and Methods for Big Data Analytics
 
 Authors: Prudhviraj Sheela
 
 The main motive of this project is to find an estimation technique which identifies the strength of association between pairs of products purchased together and identify the patterns of co-occurence.
+
+The project also focuses on how is Market Basket Analysis performed by retailers to understand the purchase behavior of their customers.
 
 IDE Used: Google Colab Notebook
 
