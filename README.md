@@ -16,8 +16,8 @@ Description about the files:
 
 1)Project-1.pdf: This file contains the steps associated for developing the application and also the intermediate output formats for executing the program.
 
-2)Market_Basket.py: PySpark Program to find the products which are frequently browsed together. In this PySpark job I had found out both the frequent top itemsets and association rules necessary. This program has been implemented using Apriori Algorithm.
+2)Market_Basket.py/Market_Basket.ipynb: PySpark Program to find the products which are frequently browsed together. In this PySpark job I had found out both the frequent top itemsets and association rules necessary. This program has been implemented using Apriori Algorithm.
 
 3)browsing.txt: Contains the online browsing behavior dataset and is parsed as input to the program.
 
-Output Files: The explanation about the output generated is available in the "Market_Basket.py" python file which explains clearly each step on how is the end result obtained
+Output Files: The explanation about the output generated is available in the "Market_Basket.ipynb" python file which explains clearly each step on how is the end result obtained
